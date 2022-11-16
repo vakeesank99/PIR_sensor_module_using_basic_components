@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=+5 Pin=Op1-4
+Removed Pin From Net: NetName=-5 Pin=Op1-7
+Removed Pin From Net: NetName=+5 Pin=Op3-4
+Removed Pin From Net: NetName=-5 Pin=Op3-7
+Removed Pin From Net: NetName=+5 Pin=Op4-4
+Removed Pin From Net: NetName=GND Pin=Op4-7
+Removed Pin From Net: NetName=+5 Pin=Op5-4
+Removed Pin From Net: NetName=GND Pin=Op5-7
+Removed Pin From Net: NetName=+5 Pin=Op6-4
+Removed Pin From Net: NetName=GND Pin=Op6-7
+Removed Pin From Net: NetName=NetOp7_1 Pin=Op7-1
+Removed Pin From Net: NetName=+5v Pin=Op7-4
+Removed Pin From Net: NetName=GND Pin=Op7-8
+Change Component Footprint: Designator=Op7 Old Footprint=ADI-Q-8 New Footprint=P0008A
+Change Component Comment : Designator=Op7 Old Comment=5962-8872101PA New Comment=LM741
+Change Managed Component Library Link : Designator=Op7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B411A5F7-19C5-46D0-8D58-6461F1E3BBC3 New ItemGUID=4960B38A-7780-4A54-8E48-6B73254E80ED Old RevisionGUID=21BD158E-C9F4-480A-A50F-F285CBEFA975 New RevisionGUID=BE3B0EAA-2F2C-4F87-9FCC-D7023079F6C7
+Change component parameters: Designator = "Op7" ("Op7"); Footprint = "ADI-Q-8"; UniqueID = "\JUGCYZOD" ("\JUGCYZOD")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-BA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM741&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "P0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "MDIP, .365 x .250 x .130in, 8 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM*741CN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-5 Pin=Op1-4
+Added Pin To Net: NetName=+5 Pin=Op1-7
+Added Pin To Net: NetName=-5 Pin=Op3-4
+Added Pin To Net: NetName=+5 Pin=Op3-7
+Added Pin To Net: NetName=GND Pin=Op4-4
+Added Pin To Net: NetName=+5 Pin=Op4-7
+Added Pin To Net: NetName=GND Pin=Op5-4
+Added Pin To Net: NetName=+5 Pin=Op5-7
+Added Pin To Net: NetName=GND Pin=Op6-4
+Added Pin To Net: NetName=+5 Pin=Op6-7
+Added Pin To Net: NetName=GND Pin=Op7-4
+Added Pin To Net: NetName=NetOp7_1 Pin=Op7-6
+Added Pin To Net: NetName=+5 Pin=Op7-7
+Change Net Name : Old Net Name=NetOp7_1 New Net Name=NetOp7_6
+Added Room: Name=Sheet1

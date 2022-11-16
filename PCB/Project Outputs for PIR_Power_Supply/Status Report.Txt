@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PIR_Power_Supply.PrjPcb]
+   Generated File[new_pir.GTO]
+   Generated File[new_pir.GTS]
+   Generated File[new_pir.GTL]
+   Generated File[new_pir.GBL]
+   Generated File[new_pir.GBS]
+   Generated File[new_pir.GBO]
+   Generated File[new_pir.GM1]
+   Generated File[new_pir.GKO]
+   Generated File[new_pir.RUL]
+   Generated File[new_pir.EXTREP]
+   Generated File[new_pir.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 10:04:03 AM On 4/12/2022
